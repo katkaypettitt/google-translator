@@ -9,7 +9,3 @@ Translation application utilising the googletrans package and tkinter as the GUI
 ## Technologies
 
 Python 3.7.9 and googletrans 3.1(.0a0)
-
-## Contact
-
-Created by [@katrinaalaimo](https://www.katrinaalaimo.com/) — feel free to contact me!
